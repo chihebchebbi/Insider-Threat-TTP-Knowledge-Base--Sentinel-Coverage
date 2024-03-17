@@ -1,4 +1,4 @@
-# Insider-Threat-TTP-Knowledge-Base - Microsoft Sentinel-Coverage
+# Insider Threat TTP Knowledge Base - Microsoft Sentinel Coverage
 
 It is a Python script designed to bridge a crucial gap in cybersecurity defense mechanisms, specifically in the integration between Microsoft Sentinel SIEM (Security Information and Event Management) and the MITRE ATT&CK Insider Threat TTP Knowledge Base v2. 
 
