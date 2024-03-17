@@ -10,6 +10,7 @@ It is a Python script designed to bridge a crucial gap in cybersecurity defense 
     - **Covered TTPs Layer**: Showcases the TTPs of the Insider Threat TTP Knowledge Base that are covered by Microsoft Sentinel, enabling security analysts to visualize and assess the extent of their current defensive coverage.
     - **Uncovered TTPs Layer**: Highlights the TTPs that are not covered by Sentinel, providing valuable insights into potential security blind spots and areas requiring additional defensive measures.
 
+![](https://i.imgur.com/kQPGu5F.png)
 
 ### How It Works
 
